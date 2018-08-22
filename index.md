@@ -1,8 +1,10 @@
 * Tagline
+
 sql_heretic will provide a full-fledged framework to expose arbitrary data sources, 
 without requiring the application developer to write a single line of application code.
 
 * Why make sql_heretic?
+
 Many applications are more-or-less simple interfaces to the underlying data-source.
 There is no "completely ready" web-framework to wrap around a data-source, and many 
 applications suffer from code-bloat, re-inventing the wheel, and incomplete adherence
@@ -12,6 +14,7 @@ hooks to the underlying data-source, making it inherently testable, versionable,
 wrapping it in best-in-class tooling and network-interface standards.
 
 * In-Depth
+
 sql_heretic will act as a passthrough of predefined parametrized data-source queries 
 through a network interface. The core server itself will be written entirely in a 
 streaming, reactive, non-blocking way, only acting as glue-code for the network calls. 
@@ -23,12 +26,14 @@ Developers will be defining the business domain in the native data-source langua
 as well as turning configuration knobs to best suite their needs.
 
 * Developer Experience
+
 Developers will be maintaining YAML files where schema migrations, endpoints and tests 
 will reside in close proximity. A rich CLI interface will be developed to facilitate 
 quick actions and control the code-base. A [popular-code-editor] plugin will be developed
 to streamline developer exprience.
 
 * Features
+
 	- [ ] High-performance
 		- [ ] streaming, non-blocking architecture
 		- [ ] constant memory utilization
