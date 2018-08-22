@@ -42,8 +42,8 @@ to streamline developer exprience.
 	- [x] stability in production
 	- [x] high-throughput
 - [x] Built-in DB migrations
-	- [x] 
-	- [x] testing of stored functions/procs, and indices directly in migrations
+	- [x] integrated UP and DOWN scripts
+	- [x] testing of stored functions/procs directly in migrations
 - [x] API endpoints
 	- [x] very small code footprint
 	- [x] advanced parameter validation
