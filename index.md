@@ -36,41 +36,41 @@ to streamline developer exprience.
 
 ## Features
 
-	- [x] High-performance
-		- [x] streaming, non-blocking architecture
-		- [x] constant memory utilization
-		- [x] stability in production
-		- [x] high-throughput
-	- [x] Built-in DB migrations
-		- [x] 
-		- [x] testing of stored functions/procs, and indices directly in migrations
-	- [x] API endpoints
-		- [x] very small code footprint
-		- [x] advanced parameter validation
-		- [x] built-in pagination
-		- [x] automatic multiple response formats
-		- [x] auto-GZIP compression
-		- [x] direct mapping between API and DB queries
-		- [x] API test framework
-		- [x] Create/Update/Delete endpoints wrapped in a transaction
-		- [x] automatically discoverable API
-			- [x] Swagger/RAML
-			- [x] HATEOAS
-	- [x] Extensibility
-		- [x] custom webhook integration
-			- [x] for filtering, transformations, and reporting
-		- [x] custom code plugins
-			- [x] request filters
-			- [x] request transformation
-			- [x] result transformation
-			- [x] result folding/aggregation
-			- [x] integrated testing
-	- [x] Security
-		- [x] HTTPS termination
-		- [x] support for role-based access-controls
-	- [x] Automatic Logging
-		- [x] JSON format for indexing in Lucene/Kibana/Splunk/Mongo/etc.
-		- [x] access logs
-		- [x] application logs
-		- [x] telemetry logs for performance analysis
+- [x] High-performance
+	- [x] streaming, non-blocking architecture
+	- [x] constant memory utilization
+	- [x] stability in production
+	- [x] high-throughput
+- [x] Built-in DB migrations
+	- [x] 
+	- [x] testing of stored functions/procs, and indices directly in migrations
+- [x] API endpoints
+	- [x] very small code footprint
+	- [x] advanced parameter validation
+	- [x] built-in pagination
+	- [x] automatic multiple response formats
+	- [x] auto-GZIP compression
+	- [x] direct mapping between API and DB queries
+	- [x] API test framework
+	- [x] Create/Update/Delete endpoints wrapped in a transaction
+	- [x] automatically discoverable API
+		- [x] Swagger/RAML
+		- [x] HATEOAS
+- [x] Extensibility
+	- [x] custom webhook integration
+		- [x] for filtering, transformations, and reporting
+	- [x] custom code plugins
+		- [x] request filters
+		- [x] request transformation
+		- [x] result transformation
+		- [x] result folding/aggregation
+		- [x] integrated testing
+- [x] Security
+	- [x] HTTPS termination
+	- [x] support for role-based access-controls
+- [x] Automatic Logging
+	- [x] JSON format for indexing in Lucene/Kibana/Splunk/Mongo/etc.
+	- [x] access logs
+	- [x] application logs
+	- [x] telemetry logs for performance analysis
 
