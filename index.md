@@ -1,4 +1,4 @@
-# The Language and Engine of Data-Driven APIs
+# DataHeretic: The Language of Data-Driven APIs
 
 ### _DataHeretic is currently a work-in-progress. We're happy to answer any questions!_
 
