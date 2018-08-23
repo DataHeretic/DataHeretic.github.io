@@ -27,7 +27,7 @@ DataHeretic wishes to enrich and contribute back to the developer community, whi
 
 ## Developer Experience
 
-We deeply care about developer experience and ergonomics. Schema migrations, endpoints and tests will reside in close proximity, reducing the cognitive burden on the developer. Its rich CLI interface includes both facilitates code creation, as well as all commands to operate the DataHeretic engine.  plugin will be developed to streamline developer exprience.
+We deeply care about developer experience and ergonomics. Schema migrations, endpoints and tests will reside in close proximity, reducing the cognitive burden on the developer. Its rich CLI interface includes both facilitates code creation, as well as all commands to operate the DataHeretic engine. A *VSCode* plugin will be developed to streamline developer exprience.
 
 ## An Example Simple Endpoint
 Without further ado, we're proud to present the (_really simple_) `foos_by_id.dh`:
